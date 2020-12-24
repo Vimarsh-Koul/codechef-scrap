@@ -1,0 +1,5 @@
+
+1 selenium (pip3 install selenium)
+2 chrome web browser
+3 chrome webdriver
+4 file named star.txt
